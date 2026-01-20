@@ -323,7 +323,6 @@ gantt
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vengeance)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://vengeance.dev)
 
-### 📞 **+91-8010863871**
 
 <br/>
 
